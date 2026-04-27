@@ -28,7 +28,7 @@ Machine Learning & Deep Learning
 Computer Vision
 VLSI Design & Semiconductor Analysis
 
-💼 LinkedIn: ([Add your link here](https://www.linkedin.com/in/khandokar-asif-imtiaz-779206334/))
+💼 LinkedIn: (https://www.linkedin.com/in/khandokar-asif-imtiaz-779206334/)
 📧 Email: (khandokarasif1@gmail.com)
 <!---
 AsifImtiazShazid/AsifImtiazShazid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

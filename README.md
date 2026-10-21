@@ -1,4 +1,4 @@
-💼 Assistant Engineer (Analog Design & Automation) @ Ulkasemi
+💼 Assistant Engineer (AIML & VLSI Design Automation) @ Ulkasemi
 ⚡ Bridging VLSI Design + AI/ML
 ⚡ Passionate about AI/ML in VLSI & Semiconductor Research
 🧠Exploring Deep Learning, Computer Vision, and Data Analysis
@@ -21,7 +21,7 @@ Python, C/C++
 PyTorch, TensorFlow
 OpenCV, NumPy, Pandas
 Streamlit, PyQt5
-Google Colab, Kaggle
+Google Colab, Kaggle, LangChain, LangGrapgh
 
 Domains:
 Machine Learning & Deep Learning

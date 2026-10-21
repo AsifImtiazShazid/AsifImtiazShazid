@@ -27,6 +27,7 @@ Domains:
 Machine Learning & Deep Learning
 Computer Vision
 VLSI Design & Semiconductor Analysis
+Agentic AI
 
 💼 LinkedIn: (https://www.linkedin.com/in/khandokar-asif-imtiaz-779206334/)
 📧 Email: (khandokarasif1@gmail.com)
